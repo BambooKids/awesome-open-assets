@@ -1,10 +1,10 @@
 * Awesome Open Assets
 
-AOA is a repo with links to amazing places on the internet where you can get assets for your creative projects. They are sites that have been identified ot have at least some public domain/cc0/creative commons licensed materials. 
+AOA is a repo with links to amazing places on the internet where you can get assets for your creative projects. They are sites that have been identified to have at least some public domain/cc0/creative commons licensed materials. 
 
 Some of these may seem like an odd inclusion at first, but, I do "cutout/collage" style art and animation, so maybe that will explain it. 
 
-*Please Note!! Disclaimer!* that not all of these sites host *only* public domain / cc0 imagery. They made the list because they at least host _some_. While many are fully open, the media they host may be under several types of licenses, such as [[https://creativecommons.org/]]. I've done my best to try to auto apply filters to free/open/public domain/cc0 licenses for you, but treat the links as a starting point and always confirm with the sites media filters and license descriptions. Enjoy!
+*Please Note!! Disclaimer!* Not all of these sites host *only* public domain / cc0 imagery. They made the list because they at least host _some_. While many are fully open, the media they host may be under several types of licenses, such as [[https://creativecommons.org/]]. I've done my best to try to auto apply filters to free/open/public domain/cc0 licenses for you, but treat the links as a starting point and always confirm with the sites media filters and license descriptions. Enjoy!
 
 
 ** Music / Sound Effects
