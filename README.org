@@ -68,8 +68,18 @@ Please note that not all of these are in the public domain. While many are, ther
 - [[https://www.synfig.org/][Synfig Studio]]
 - [[https://maurycyliebner.github.io/][Enve]]
 - [[https://dragonbones.github.io/en/download.html][DragonBones]]
-- [[https://natrongithub.github.io/][Natron]]
   
 *** 3d Modelling and Animation
 - [[https://www.blender.org/][Blender 3d]]
 - [[blockbench.net][Blockbench]]
+
+*** Video Editing / Compositing
+- [[https://natrongithub.github.io/][Natron]]
+- [[https://kdenlive.org/][Kden Live]]
+
+*** Audio 
+- [[https://www.audacityteam.org/][Audacity]]
+
+*** Game Engines
+- [[https://godotengine.org/][Godot]]
+- [[https://www.zdoom.org/index][Zdoom Family]]
