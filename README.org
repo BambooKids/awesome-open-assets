@@ -41,6 +41,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.gameart2d.com/freebies.html][Game Art 2d]]
 - [[https://game-icons.net][Game-icons.net]]
 - [[https://www.freeimages.com/][Getty Free Images]]
+- [[https://sites.google.com/view/goofbox/][GoofBox]] (I rotoscope old cartoons)
 - [[https://www.google.com/webhp?tbo=p&tbm=bks&tbs=,bkv:f,cdr:1,cd_max:Dec+31_2+1926&num=10&zx=1763521442662&no_sw_cr=1][Google Books with Special Filter For Release before 1927]]
 - [[https://www.hathitrust.org/][HathiTrust]]
 - [[https://archive.org/][Internet Archive]]
