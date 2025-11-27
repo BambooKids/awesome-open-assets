@@ -18,6 +18,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://freesound.org/][Free Sound]]
 - [[https://musopen.org/][MuseOpen]]
 - [[https://opengameart.org/][Open Game Art]]
+- [[https://archive.org/details/OldRunescapeSoundtrack][Old School RuneScape Music]] (Jagex confirmed its copyright free, [[https://x.com/RuneScape/status/1270839410469339137?lang=en][proof]])
 - [[https://publicdomainreview.org/][Public Domain Review]]
 - [[https://soundimage.org/][Sound Image]]
 - [[https://teknoaxe.com/][Tekno Axe]]
