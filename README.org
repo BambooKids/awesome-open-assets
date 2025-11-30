@@ -91,12 +91,12 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://dragonbones.github.io/en/download.html][DragonBones]]
 - [[https://maurycyliebner.github.io/][Enve]]
 - [[https://friction.graphics/][Friction Graphics]]
+- [[https://krita.org/en/][Krita]]
+- [[https://libresprite.github.io/#!/][Libre Sprite]]
 - [[https://opentoonz.github.io/e/][OpenToonz]]
 - [[https://www.pencil2d.org/][Pencil2D Animation]]
 - [[https://www.synfig.org/][Synfig Studio]]
 - [[https://tahoma2d.org/][Tahoma2d]]
-- [[https://krita.org/en/][Krita]]
-- [[https://libresprite.github.io/#!/][Libre Sprite]]
   
 *** 3d Modelling and Animation
 - [[https://www.blender.org/][Blender]]
