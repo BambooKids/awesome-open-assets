@@ -84,6 +84,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.gimp.org/][Gimp]]
 - [[inkscape.org][Inkscape]]
 - [[https://krita.org/en/][Krita]]
+- [[https://libresprite.github.io/#!/][Libre Sprite]]
 - [[https://www.piskelapp.com/][Piskel]]
   
 *** 2d Animation
@@ -94,6 +95,8 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.pencil2d.org/][Pencil2D Animation]]
 - [[https://www.synfig.org/][Synfig Studio]]
 - [[https://tahoma2d.org/][Tahoma2d]]
+- [[https://krita.org/en/][Krita]]
+- [[https://libresprite.github.io/#!/][Libre Sprite]]
   
 *** 3d Modelling and Animation
 - [[https://www.blender.org/][Blender]]
