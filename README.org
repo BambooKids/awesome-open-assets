@@ -6,7 +6,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 
 *Please Note!! Disclaimer!* Not all of these sites host *only* public domain / cc0 imagery. They made the list because they at least host _some_. While many are fully open, the media they host may be under several types of licenses, such as [[https://creativecommons.org/]]. I've done my best to try to auto apply filters to free/open/public domain/cc0 licenses for you, but treat the links as a starting point and always confirm with the sites media filters and license descriptions. Enjoy!
 
-If you like the software, consider [[https://www.paypal.com/donate/?business=MCQ4ADZ6BKSD2&no_recurring=0&item_name=Thanks+for+donating%2C+this+allows+me+to+keep+working+on+the+system+and+still+feed+my+family.+&currency_code=USD][donating <3]]!
+If you like the project, consider [[https://www.paypal.com/donate/?business=MCQ4ADZ6BKSD2&no_recurring=0&item_name=Thanks+for+donating%2C+this+allows+me+to+keep+working+on+the+system+and+still+feed+my+family.+&currency_code=USD][donating <3]]!
 
 ** Music / Sound Effects
 - [[https://github.com/Blasphemer][Blasphemer]] (has sfx and music)
